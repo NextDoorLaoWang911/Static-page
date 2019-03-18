@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	font:12px '宋体';
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+}
+h3{
+	margin: 0;
+}
+input{
+	padding: 0;
+	border: 0;
+	outline: none;
+}
+h3{
+	margin: 0;
+}
+h1{
+	margin: 0;
+}
+.clearfix{
+	clear: both;
+}
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+.Shared-Center{
+	margin: 0 auto;
+}
+.no-margin{
+	margin-right: 0px;
+}
+.no-marginb{
+	margin-bottom: 0px;
+}
+.no-margint{
+	margin-top: 0px;
+}
+.have-mar-b{
+	margin-bottom: 15px;
+}
+.no-padding-l{
+	padding-left: 0px;
+}
